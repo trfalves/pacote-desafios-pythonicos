@@ -67,7 +67,7 @@ def mimic_dict(filename):
         else:
           dic[lista[i]].append(lista[i + 1])
 
-    print (dic)
+    #print (dic)
     return dic
 
 
